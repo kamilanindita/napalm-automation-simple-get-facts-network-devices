@@ -2,11 +2,11 @@
 
 ___
 
-Devices:
+Network Devices:
 - **Cisco**: IOS
 - **Juniper**: Junos
 - **Arista**: vEOS
-- **Nikrotik**: Cloud Hosted Router
+- **Mikrotik**: Cloud Hosted Router
 ___
 
 #### Topology
