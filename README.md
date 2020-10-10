@@ -1,0 +1,1 @@
+# napalm-automation-simple-get-facts-network-devices
