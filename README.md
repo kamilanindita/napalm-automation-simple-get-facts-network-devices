@@ -4,7 +4,7 @@ ___
 
 Network Devices:
 - **Cisco**: IOS
-- **Juniper**: Junos
+- **Juniper**: JunOs
 - **Arista**: vEOS
 - **Mikrotik**: Cloud Hosted Router
 ___
