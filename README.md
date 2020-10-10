@@ -2,6 +2,13 @@
 
 ___
 
+Devices:
+- **Cisco**: IOS
+- **Juniper**: Junos
+- **Arista**: vEOS
+- **Nikrotik**: Cloud Hosted Router
+___
+
 #### Topology
 ![Image of index](https://drive.google.com/uc?export=view&id=1NHbkHUiu5lyzorqdktwGirp7ngb1BnYk)
 
